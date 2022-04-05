@@ -15,6 +15,6 @@ Skills: Python / Django / HTML / CSS / JS / MySQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zh3kka)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@zheka_j/)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/za1kano)  
-[<img src='https://unicode-table.com/ru/2193/' height='10'>] Ниже в репозиторях можете найти мой написанный код и проекты которые реализовал
+↓ Ниже в репозиторях можете найти мой написанный код и проекты которые реализовал ↓
 
 
