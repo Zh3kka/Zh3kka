@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, меня зовут **Евгений**
+Студент 2-го курса МФЮА на факультете "Прикладная информатика в экономике". Обучаюсь на онлайн-курсах от GeekBrains на факультете "Python-разработки". Хочу развиваться в IT - компании и единомышленников. 
+Из личных качества: 
+--- Коммуникабльность
+--- Старательность
+--- Целеустремленность
+--- Быстро схватываю
 
-<!--
-**Zh3kka/Zh3kka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python / Django / HTML / CSS / JS / MySQL
 
-Here are some ideas to get you started:
+- 🔭 Работаю над более сложными своими проектами 
+- 🌱 Постпенно изучаю: ReactJS / PyQt / Agile, Scrum 
+- 👯 Хочу дальше сотрудничать с IT - компанией  
+- 📫 Как со мной связаться: Написать в соцсети 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zh3kka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@zheka_j/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](flexmanialast@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='40'>](Zh3kaSel@yandex.ru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/za1kano)  
+
+
