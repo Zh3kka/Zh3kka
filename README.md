@@ -7,10 +7,9 @@
 - Целеустремленность
 - Ответсвенный
 
-Навыки: HTML5/CSS3, Javascript, Reactjs, React Query, Axios, Typescript, NextJS, Nodejs, Express.js, SASS, Bootstrap
+Навыки: HTML5/CSS3, Javascript, Reactjs, React Query, Axios, Typescript, NextJS, Nodejs, Express.js, Nestjs, Tailwind CSS, SASS, Bootstrap
 
 - 🔭 Работаю над более сложными своими проектами 
-- 🌱 Постпенно изучаю: Redux / Webpack
 - 👯 Хочу дальше сотрудничать с IT - компанией  
 - 📫 Как со мной связаться? Написать на почту - GOOGLE: flexmanialast@gmail.com , YANDEX: zheseleznev@yandex.ru
 
