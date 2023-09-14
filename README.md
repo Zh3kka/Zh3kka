@@ -5,7 +5,7 @@
 💻 Опытный веб-разработчик с более чем 1 годом опыта
 
 ## Мои навыки
-- **Frontend**: HTML5, CSS3, SASS, JavaScript, React.js, React Query, Axios, TypeScript, Next.js
+- **Frontend**: HTML5, CSS3, SASS, JavaScript, React.js, Redux, React Native, React Query, Axios, TypeScript, Next.js
 - **Backend**: Node.js, Express.js, Nest.js
 - **Базы данных**: MongoDB, PostgreSQL
 
