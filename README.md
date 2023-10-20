@@ -15,7 +15,7 @@
 - 🚀 [Реальный кейс для компании](https://github.com/Zh3kka/Izumstudio)
 - 🚀 [Приложение для тренировок](https://github.com/Zh3kka/WorkoutApp) - FullStack приложение.
 - 🚀 [FullStack Blog приложение](https://github.com/Zh3kka/Blog) - FullStack приложение.
-- 🚀 [Проект на Next.js и TypeScript]([https://github.com/Zh3kka/TravelApp](https://github.com/Zh3kka/Travel-Web-Site)) - Web сайт
+- 🚀 [Проект на Next.js и TypeScript](https://github.com/Zh3kka/Travel-Web-Site) - Web сайт
 - 🚀 [Онлайн кинотеатр (Next.js и TypeScript)](https://github.com/Zh3kka/Clone_Netflix) - Моя песочница для изучения новых технологий.
 - 🚀 [Верстка сайта](https://github.com/Zh3kka/Quibly)
 
