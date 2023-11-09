@@ -8,15 +8,15 @@
 - **Frontend**: HTML5, CSS3, SASS, JavaScript, React.js, Redux, React Native, React Query, Axios, TypeScript, Next.js
 - **Backend**: Node.js, Express.js, Nest.js
 - **Базы данных**: MongoDB, PostgreSQL
-
+https://github.com/Zh3kka/Trave-App
 ## Мои проекты
-- 🌐 [Сайт для мониторинга цен на криптовалюты](https://github.com/Zh3kka/Crypto__) - Использую API для получения данных о криптовалютах и активно разрабатываю его.
-
-- 🚀 [Реальный кейс для компании](https://github.com/Zh3kka/Izumstudio)
+- 🚀 [React Native Travel App](https://github.com/Zh3kka/Trave-App) - React Native приложение.
+- 🚀 [Онлайн кинотеатр (Next.js и TypeScript)](https://github.com/Zh3kka/Clone_Netflix) - Моя песочница для изучения новых технологий.
 - 🚀 [Приложение для тренировок](https://github.com/Zh3kka/WorkoutApp) - FullStack приложение.
 - 🚀 [FullStack Blog приложение](https://github.com/Zh3kka/Blog) - FullStack приложение.
 - 🚀 [Проект на Next.js и TypeScript](https://github.com/Zh3kka/Travel-Web-Site) - Web сайт
-- 🚀 [Онлайн кинотеатр (Next.js и TypeScript)](https://github.com/Zh3kka/Clone_Netflix) - Моя песочница для изучения новых технологий.
+- 🌐 [Сайт для мониторинга цен на криптовалюты](https://github.com/Zh3kka/Crypto__) - Использую API для получения данных о криптовалютах и активно разрабатываю его.
+- 🚀 [Реальный кейс для компании](https://github.com/Zh3kka/Izumstudio)
 - 🚀 [Верстка сайта](https://github.com/Zh3kka/Quibly)
 
 ## Контакты
