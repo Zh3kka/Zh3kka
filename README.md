@@ -10,6 +10,7 @@
 - **Базы данных**: MongoDB, PostgreSQL
 https://github.com/Zh3kka/Trave-App
 ## Мои проекты
+- 🚀 [Chat App](https://github.com/Zh3kka/Saas-platform) - Чат приложение.
 - 🚀 [React Native Travel App](https://github.com/Zh3kka/Trave-App) - React Native приложение.
 - 🚀 [Онлайн кинотеатр (Next.js и TypeScript)](https://github.com/Zh3kka/Clone_Netflix) - Моя песочница для изучения новых технологий.
 - 🚀 [Приложение для тренировок](https://github.com/Zh3kka/WorkoutApp) - FullStack приложение.
