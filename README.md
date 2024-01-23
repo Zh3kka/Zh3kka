@@ -1,16 +1,15 @@
 # Привет, я Евгений 👋
 
 ## Обо мне
-🎓 Студент технического университета (4 курс)
-💻 Опытный веб-разработчик с более чем 1 годом опыта
+- 🎓 Студент технического университета (4 курс)
+- 💻 Опытный веб-разработчик с более чем 1 годом опыта
 
 ## Мои навыки
-- **Frontend**: HTML5, CSS3, SASS, JavaScript, React.js, Redux, React Native, React Query, Axios, TypeScript, Next.js
-- **Backend**: Node.js, Express.js, Nest.js
-- **Базы данных**: MongoDB, PostgreSQL
-https://github.com/Zh3kka/Trave-App
+- **Frontend**: ReactJs, Redux, React Native, TypeScript, NextJs, React Query, Axios
+- **Backend**: Node.js, Express.js, NestJs, Python
+- **Базы данных**: MongoDB, PostgreSQL, Firebase
+- 
 ## Мои проекты
-- 🚀 [Chat App](https://github.com/Zh3kka/Saas-platform) - Чат приложение.
 - 🚀 [React Native Travel App](https://github.com/Zh3kka/Trave-App) - React Native приложение.
 - 🚀 [Онлайн кинотеатр (Next.js и TypeScript)](https://github.com/Zh3kka/Clone_Netflix) - Моя песочница для изучения новых технологий.
 - 🚀 [Приложение для тренировок](https://github.com/Zh3kka/WorkoutApp) - FullStack приложение.
