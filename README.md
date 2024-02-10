@@ -9,6 +9,7 @@
 - **Backend**: Node.js, Express.js, NestJs, Python
 - **Базы данных**: MongoDB, PostgreSQL, Firebase
 ## Мои проекты
+- 🚀 [Dwelling App](https://github.com/Zh3kka/ImperatorOfDwelling) - Платформа для аренды квартир.
 - 🚀 [Chat App](https://github.com/Zh3kka/Saas-platform) - Чат приложение.
 - 🚀 [React Native Travel App](https://github.com/Zh3kka/Trave-App) - React Native приложение.
 - 🚀 [Онлайн кинотеатр (Next.js и TypeScript)](https://github.com/Zh3kka/Clone_Netflix) - Моя песочница для изучения новых технологий.
