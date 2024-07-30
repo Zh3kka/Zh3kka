@@ -1,12 +1,12 @@
 # Привет, я Евгений 👋
 
 ## Обо мне
-- 🎓 Студент технического университета (4 курс)
+- 🎓 Получил высшнее образование по специальности "Прикладная информатика в экономике"
 - 💻 Опытный Fullstack разработчик с более чем 2 годом опыта
 
 ## Мои навыки
-- **Frontend**: ReactJs, Redux, React Native, TypeScript, NextJs, React Query, Axios
-- **Backend**: Node.js, Express.js, NestJs, Python
+- **Frontend**: ReactJs, Redux, React Native, TypeScript, NextJs, Tanstack Query, Axios, MaterialUI, Tailwindcss, shadcn-ui
+- **Backend**: Node.js, Express.js, NestJs, Python, Golang
 - **Базы данных**: MongoDB, PostgreSQL, Firebase
 ## Мои проекты
 - 🚀 [Dwelling App](https://github.com/Zh3kka/ImperatorOfDwelling) - Платформа для аренды квартир.
