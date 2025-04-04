@@ -2,7 +2,7 @@
 
 ## Обо мне
 - 🎓 Получил высшнее образование по специальности "Прикладная информатика в экономике"
-- 💻 Опытный Fullstack разработчик с более чем 2 годом опыта
+- 💻 Опытный Fullstack разработчик с более чем 4+ года опыта
 
 ## Мои навыки
 - **Frontend**: ReactJs, Redux, React Native, TypeScript, NextJs, Tanstack Query, Axios, MaterialUI, Tailwindcss, shadcn-ui
